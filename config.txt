@@ -1,4 +1,4 @@
-﻿token=NTk4OTExNzkyOTYxMjkwMjgw.XSdiOQ.eqrBOTidHrO20Z2dvvjQgFWu7P4
+token=NTk4OTExNzkyOTYxMjkwMjgw.XSdiOQ.eqrBOTidHrO20Z2dvvjQgFWu7P4
 owner=537307045381144578
 prefix=E
 game=Type Eplay
